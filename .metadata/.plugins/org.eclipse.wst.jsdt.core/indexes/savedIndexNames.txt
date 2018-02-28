@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/net/home/slaufers001/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2766751529.index
+3325223764.index
+3234050702.index
+3412981930.index
+967644109.index
+3399632606.index

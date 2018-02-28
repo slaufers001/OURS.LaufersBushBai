@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CSCI230.OURS.EclipseProject.LaufersBush">
+        <property name="context-root" value="CSCI230.OURS.EclipseProject.LaufersBush"/>
+        <property name="java-output-path" value="/CSCI230.OURS.EclipseProject.LaufersBush/build/classes"/>
+    </wb-module>
+</project-modules>
